@@ -6,5 +6,13 @@
     {
         "merged": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_search.png",
         "source": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_search.png",
+        "source": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/src/main/res/drawable-mdpi/ic_action_search.png"
     }
 ]

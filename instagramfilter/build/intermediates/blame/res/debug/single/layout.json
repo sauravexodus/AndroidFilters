@@ -8,8 +8,24 @@
         "source": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/layout/activity_main.xml"
     },
     {
+        "merged": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/src/main/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/layout/activity_gallery.xml",
+        "source": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/src/main/res/layout/activity_gallery.xml"
+    },
+    {
         "merged": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/layout/item_image.xml",
         "source": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/layout/item_image.xml"
+    },
+    {
+        "merged": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/layout/item_image.xml",
+        "source": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/src/main/res/layout/item_image.xml"
+    },
+    {
+        "merged": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/layout/activity_gallery.xml",

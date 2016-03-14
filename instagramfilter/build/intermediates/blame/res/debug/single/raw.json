@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/raw/tone_cuver_sample.acv",
+        "source": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/src/main/res/raw/tone_cuver_sample.acv"
+    },
+    {
         "merged": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/raw/tone_cuver_sample.acv",
         "source": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/raw/tone_cuver_sample.acv"
     }

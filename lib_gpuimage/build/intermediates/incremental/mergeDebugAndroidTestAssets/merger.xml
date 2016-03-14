@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="debug"><source path="/home/saurav/Documents/Dogether-Rails/instagram-filter/lib_gpuimage/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/home/saurav/Documents/Dogether-Rails/instagram-filter/lib_gpuimage/src/androidTest/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="debug"><source path="/home/saurav/AndroidStudioProjects/instagram-filter/lib_gpuimage/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/home/saurav/AndroidStudioProjects/instagram-filter/lib_gpuimage/src/androidTest/assets"/></dataSet></merger>

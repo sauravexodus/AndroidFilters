@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/saurav/AndroidStudioProjects/instagram-filter/instagramfilter/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
         "source": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/drawable-ldpi/ic_launcher.png"
     }

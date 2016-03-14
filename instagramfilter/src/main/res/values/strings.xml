@@ -2,25 +2,25 @@
 
     <string name="app_name">GPUImage Sample</string>
     <string name="title_activity_activity_main">GPUImage Sample</string>
-    <string name="text_filter_normal">原图</string>
-    <string name="text_filter_meifu">自然美肌</string>
-    <string name="text_filter_meishi">美食</string>
-    <string name="text_filter_amaro">流年</string>
-    <string name="text_filter_rise">森系</string>
-    <string name="text_filter_hudson">胶片</string>
-    <string name="text_filter_xproii">新潮</string>
-    <string name="text_filter_sierra">清新</string>
-    <string name="text_filter_lomofi">个性</string>
-    <string name="text_filter_early_bird">怡尚</string>
-    <string name="text_filter_sutro">摩登</string>
-    <string name="text_filter_toaster">绚丽</string>
-    <string name="text_filter_brannan">淡雅</string>
-    <string name="text_filter_inkwell">黑白</string>
-    <string name="text_filter_walden">日系</string>
-    <string name="text_filter_hefe">优格</string>
-    <string name="text_filter_valencia">优雅</string>
-    <string name="text_filter_nashville">复古</string>
-    <string name="text_filter_in1977">创新</string>
-    <string name="text_filter_lord_kelvin">回忆</string>
+    <string name="text_filter_normal">Normal</string>
+    <string name="text_filter_meifu">Meifu</string>
+    <string name="text_filter_meishi">Meishi</string>
+    <string name="text_filter_amaro">Amaro</string>
+    <string name="text_filter_rise">Rise</string>
+    <string name="text_filter_hudson">Hudson</string>
+    <string name="text_filter_xproii">Xprosii</string>
+    <string name="text_filter_sierra">Sierra</string>
+    <string name="text_filter_lomofi">Lomofi</string>
+    <string name="text_filter_early_bird">Early Bird</string>
+    <string name="text_filter_sutro">Sutro</string>
+    <string name="text_filter_toaster">Toaster</string>
+    <string name="text_filter_brannan">Brannan</string>
+    <string name="text_filter_inkwell">Inkwell</string>
+    <string name="text_filter_walden">Walden</string>
+    <string name="text_filter_hefe">Hefe</string>
+    <string name="text_filter_valencia">Valencia</string>
+    <string name="text_filter_nashville">Nashville</string>
+    <string name="text_filter_in1977">1977</string>
+    <string name="text_filter_lord_kelvin">Lord Kelvin</string>
 
 </resources>
