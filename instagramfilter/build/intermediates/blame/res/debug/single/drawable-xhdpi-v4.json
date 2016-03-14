@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/drawable-xhdpi-v4/filter_meishi.jpg",
+        "source": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/drawable-xhdpi/filter_meishi.jpg"
+    },
+    {
+        "merged": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_filter_selected.png",
+        "source": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/drawable-xhdpi/icon_filter_selected.png"
+    },
+    {
+        "merged": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_search.png",
+        "source": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/drawable-xhdpi-v4/filter_meifu.jpg",
+        "source": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/drawable-xhdpi/filter_meifu.jpg"
+    }
+]

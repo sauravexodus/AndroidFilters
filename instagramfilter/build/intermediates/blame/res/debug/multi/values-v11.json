@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 63,
+                        "endOffset": 76
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 96,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 81,
+                        "endColumn": 97,
+                        "endOffset": 174
+                    }
+                }
+            }
+        ]
+    }
+]

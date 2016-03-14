@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="16e5fd94d85cae34df23d217fa97737771379e5d">
+        <dex dex="/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_353ca8196600b95f9dbb9c38211cf4067a5af548/classes.dex" />
+    </item>
+
+</items>

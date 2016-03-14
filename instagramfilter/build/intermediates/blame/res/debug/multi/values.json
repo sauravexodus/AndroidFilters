@@ -1,0 +1,463 @@
+[
+    {
+        "outputFile": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 52,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 52,
+                        "endOffset": 65
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 48,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 48,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 50,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endColumn": 50,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 425,
+                    "endColumn": 53,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 591,
+                        "endColumn": 53,
+                        "endOffset": 640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 47,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 897,
+                        "endColumn": 47,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 49,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 49,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endColumn": 49,
+                    "endOffset": 622
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endColumn": 49,
+                        "endOffset": 1095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 627,
+                    "endColumn": 50,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 50,
+                        "endOffset": 842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endColumn": 49,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 541,
+                        "endColumn": 49,
+                        "endOffset": 586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 54,
+                    "endOffset": 778
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1100,
+                        "endColumn": 54,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 783,
+                    "endColumn": 50,
+                    "endOffset": 829
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 50,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 834,
+                    "endColumn": 49,
+                    "endOffset": 879
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 244,
+                        "endColumn": 49,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 884,
+                    "endColumn": 52,
+                    "endOffset": 932
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 997,
+                        "endColumn": 52,
+                        "endOffset": 1045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 937,
+                    "endColumn": 49,
+                    "endOffset": 982
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 49,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 987,
+                    "endColumn": 47,
+                    "endOffset": 1030
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 47,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1035,
+                    "endColumn": 49,
+                    "endOffset": 1080
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 49,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1085,
+                    "endColumn": 48,
+                    "endOffset": 1129
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 645,
+                        "endColumn": 48,
+                        "endOffset": 689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1134,
+                    "endColumn": 50,
+                    "endOffset": 1180
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endColumn": 50,
+                        "endOffset": 740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1185,
+                    "endColumn": 51,
+                    "endOffset": 1232
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 945,
+                        "endColumn": 51,
+                        "endOffset": 992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1237,
+                    "endColumn": 49,
+                    "endOffset": 1282
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 847,
+                        "endColumn": 49,
+                        "endOffset": 892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1287,
+                    "endColumn": 49,
+                    "endOffset": 1332
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endColumn": 49,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1337,
+                    "endColumn": 72,
+                    "endOffset": 1405
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 70,
+                        "endColumn": 72,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1410,
+                    "endColumn": 57,
+                    "endOffset": 1463
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 58,
+                        "endOffset": 71
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1468,
+                    "endColumn": 91,
+                    "endOffset": 1555
+                },
+                "from": {
+                    "file": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 76,
+                        "endColumn": 92,
+                        "endOffset": 164
+                    }
+                }
+            }
+        ]
+    }
+]

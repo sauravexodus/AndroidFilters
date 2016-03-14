@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="6"
+    timestamp="39922537640730"
+    verifier="DEPENDENCY_CHANGED" >
+
+    <task
+        name="javac"
+        duration="641" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_353ca8196600b95f9dbb9c38211cf4067a5af548/classes.dex"
+        type="DEX" />
+
+    <build timestamp="39741311485821" >
+        <artifact
+            location="/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/outputs/apk/instagramfilter-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="39922537640730"
+        verifier="DEPENDENCY_CHANGED" >
+        <artifact
+            location="/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_353ca8196600b95f9dbb9c38211cf4067a5af548/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

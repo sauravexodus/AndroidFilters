@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_switch_camera.png",
+        "source": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/drawable-hdpi/ic_switch_camera.png"
+    },
+    {
+        "merged": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_search.png",
+        "source": "/home/saurav/Documents/Dogether-Rails/instagram-filter/instagramfilter/src/main/res/drawable-hdpi/ic_action_search.png"
+    }
+]
